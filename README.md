@@ -49,7 +49,7 @@ The repository contains the main FreeCAD project file and the associated STEP fi
 - [Canon_EF-M48_connector.step](Canon_EF-M48_connector.step) — M48 camera connector
 - [Canon_EF-T2_connector.step](Canon_EF-T2_connector.step) — T2/M42 camera connector
 - [Canon_EF-Mount_bracket.step](Canon_EF-Mount_bracket.step) — astronomical mount bracket
-
+- [lens-camera-adapters-Base.step](lens-camera-adapters-Base.step) — Base with 3/8 " thread 
 ## ⚠️ Disclaimer
 
 These parts are assembled mainly by friction and mechanical fit. They are best suited for small astrophotography setups, such as compact lenses like the Sigma 17-70 mm and small planetary cameras such as the ZWO ASI224 or Player One Mars C II.
